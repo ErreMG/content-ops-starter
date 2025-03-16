@@ -4,14 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Impulsa tu empresa con IA, automatización y análisis de datos.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Tecnología para Pequeñas Empresas
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Nuestro compromiso es ayudar a las pequeñas empresas a crecer mediante soluciones de automatización,
+      análisis de datos y optimización inteligente. Descubra el valor oculto en sus datos, transformando información inexplorada
+      en oportunidades concretas que impulsan eficiencia, innovación y un crecimiento exponencial.
     actions:
       - label: Get started
         altText: ''
@@ -33,11 +33,11 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: Impulsa el rendimiento de tu equipo y acelera la producción
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Da el salto que necesita tu negocio
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +53,20 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Beneficios Clave
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Da el salto que necesita tu negocio
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: 25%
+        subtitle: Generación de Nuevos Clientes
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          El uso de análisis predictivo y datos mejora la adquisición de clientes en un 25%, 
+          al identificar mejor los patrones de comportamiento de los consumidores.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +89,11 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: 30%
+        subtitle: Reducción de Costos
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Las empresas que implementan ciencia de datos experimentan una reducción de costos operativos de hasta un 30%,
+          al optimizar procesos y mejorar la eficiencia.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +113,11 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: 20%
+        subtitle: Mejora en las Ventas
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Las empresas que usan herramientas de ciencia de datos y análisis predictivo aumentan sus ventas entre un 10% y 20%,
+          al identificar mejor las oportunidades de mercado.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
