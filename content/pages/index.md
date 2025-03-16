@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Inicio
 slug: /
 sections:
   - type: GenericSection
@@ -136,7 +136,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Comenzar
         altText: ''
         url: /
         showIcon: false
@@ -146,7 +146,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label:
       color: text-primary
       styles:
         self:
@@ -226,18 +226,17 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Incrementa tus ingresos hasta un 40% en el primer año con nuestras soluciones
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Maximiza tus ganancias con soluciones basadas en datos y automatización
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      En un mundo empresarial cada vez más competitivo, la adopción de estrategias de análisis de datos y
+      automatización es clave para maximizar tus resultados. Nuestro enfoque personalizado no solo optimiza tus procesos,
+      sino que también potencia el crecimiento de tus ingresos desde el primer año.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -259,7 +258,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Beneficios Clave
       color: text-primary
       styles:
         self:
@@ -736,8 +735,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Inicio - Automatización y Análisis de Datos
+  metaDescription: Transforma tu negocio con soluciones de automatización y análisis de datos para maximizar tus ingresos, reducir costos y optimizar el tiempo de producción.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
