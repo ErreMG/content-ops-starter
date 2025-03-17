@@ -28,7 +28,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Continuar con el plan
+          - label: Comienza tu viaje
             url: /
             icon: arrowRight
             iconPosition: right
@@ -62,7 +62,7 @@ sections:
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Transforma tu negocio
             url: /
             icon: arrowRight
             iconPosition: right
@@ -86,19 +86,19 @@ sections:
           Optimiza tus operaciones, mejora el rendimiento y proyecta el crecimiento 
           de tu empresa aprovechando datos clave y técnicas avanzadas.
         features:
-          - Modelos Predictivos Avanzados: Prevé la demanda, el comportamiento de los clientes y las tendencias de ventas con nuestros modelos avanzados.
-          - Análisis en Profundidad: Generación de informes detallados que proporcionan una visión clara de los aspectos clave de tu negocio.
-          - Soporte Continuo Personalizado: Accede a asistencia técnica vía correo electrónico y teléfono, con respuesta rápida y soluciones específicas.
-          - Optimización de Estrategias de Marketing: Ajusta y mejora tus campañas publicitarias y tácticas de ventas utilizando análisis de datos.
-          - Herramientas Premium: Accede a herramientas avanzadas de análisis, segmentación de clientes y generación de informes personalizados.
-          - Capacitación Personalizada: Entrenamiento para tu equipo sobre el uso de nuestras herramientas y cómo interpretar los datos para mejorar los resultados.
+          - Modelos Predictivos Avanzados.
+          - Análisis en Profundidad.
+          - Soporte Continuo Personalizado.
+          - Optimización de Estrategias de Marketing.
+          - Herramientas Premium.
+          - Capacitación Personalizada.
 
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
-          - label: Contact us
+          - label: Impulsa tu crecimiento
             url: /
             icon: arrowRight
             iconPosition: right
@@ -122,8 +122,8 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaTitle: Precios - OptimizaPlus
+  metaDescription: Elige el plan que mejor se adapte a tus necesidades.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
