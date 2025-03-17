@@ -82,9 +82,8 @@ sections:
         price: Avanzado
         details: por mes
         description: >-
-        Potencia tus decisiones con análisis avanzados y modelos predictivos. 
-        Optimiza tus operaciones, mejora el rendimiento y proyecta el crecimiento 
-        de tu empresa aprovechando datos clave y técnicas avanzadas.
+          Empieza a conocer la importancia de los datos en tu negocio con un enfoque sencillo.
+          Comienza con una herramienta básica para iniciar el camino hacia la optimización de tu empresa.
 
         features:
           - Feature one
