@@ -82,9 +82,9 @@ sections:
         price: Avanzado
         details: por mes
         description: >-
-        Potencia tus decisiones con análisis avanzados y modelos predictivos. 
-        Optimiza tus operaciones, mejora el rendimiento y proyecta el crecimiento 
-        de tu empresa aprovechando datos clave y técnicas avanzadas.
+          Potencia tus decisiones con análisis avanzados y modelos predictivos. 
+          Optimiza tus operaciones, mejora el rendimiento y proyecta el crecimiento 
+          de tu empresa aprovechando datos clave y técnicas avanzadas.
         features:
           - Feature one
           - Feature two
