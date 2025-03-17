@@ -78,18 +78,22 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-- title: Avanzado
-  price: 379€
-  details: por mes
-  description: >-
-    Potencia tus decisiones con análisis avanzados y modelos predictivos. Optimiza tus operaciones, mejora el rendimiento y proyecta el crecimiento de tu empresa aprovechando datos clave y técnicas avanzadas.
+- title: "Avanzado"
+  price: "379€"
+  details: "por mes"
+  description: >
+    Potencia tus decisiones con análisis avanzados y modelos predictivos. 
+    Optimiza tus operaciones, mejora el rendimiento y proyecta el crecimiento 
+    de tu empresa aprovechando datos clave y técnicas avanzadas.
+
   features:
-    - Modelos Predictivos Avanzados: Prevé la demanda, el comportamiento de los clientes y las tendencias de ventas con nuestros modelos avanzados.
-    - Análisis en Profundidad: Generación de informes detallados que proporcionan una visión clara de los aspectos clave de tu negocio.
-    - Soporte Continuo Personalizado: Accede a asistencia técnica vía correo electrónico y teléfono, con respuesta rápida y soluciones específicas.
-    - Optimización de Estrategias de Marketing: Ajusta y mejora tus campañas publicitarias y tácticas de ventas utilizando análisis de datos.
-    - Herramientas Premium: Accede a herramientas avanzadas de análisis, segmentación de clientes y generación de informes personalizados.
-    - Capacitación Personalizada: Entrenamiento para tu equipo sobre el uso de nuestras herramientas y cómo interpretar los datos para mejorar los resultados.
+    - "Modelos Predictivos Avanzados: Prevé la demanda, el comportamiento de los clientes y las tendencias de ventas con nuestros modelos avanzados."
+    - "Análisis en Profundidad: Generación de informes detallados que proporcionan una visión clara de los aspectos clave de tu negocio."
+    - "Soporte Continuo Personalizado: Accede a asistencia técnica vía correo electrónico y teléfono, con respuesta rápida y soluciones específicas."
+    - "Optimización de Estrategias de Marketing: Ajusta y mejora tus campañas publicitarias y tácticas de ventas utilizando análisis de datos."
+    - "Herramientas Premium: Accede a herramientas avanzadas de análisis, segmentación de clientes y generación de informes personalizados."
+    - "Capacitación Personalizada: Entrenamiento para tu equipo sobre el uso de nuestras herramientas y cómo interpretar los datos para mejorar los resultados."
+
 
         image:
           url: /images/abstract-feature3.svg
