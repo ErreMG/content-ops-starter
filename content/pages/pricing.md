@@ -44,17 +44,19 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
+      - title: Básico
+        price: 179€
+        details: por mes
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          Da el siguiente paso hacia la transformación digital de tu negocio. Con el Plan Básico, no solo recopilarás datos,
+          sino que los convertirás en herramientas clave para el crecimiento. Empieza a tomar decisiones informadas que te permitirán   
+          optimizar tu negocio y alcanzar nuevas metas.
+
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Análisis mensual de ventas, clientes y productos para mejorar tu rendimiento.
+          - Reportes detallados con datos claves y recomendaciones de optimización.
+          - Herramientas accesibles para que puedas comprender los patrones de tu negocio.
+          - Soporte continuo para ayudarte a aprovechar al máximo la información recopilada.
         image:
           url: /images/abstract-feature2.svg
           altText: Pricing plan 2
@@ -76,18 +78,19 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
+      - title: Avanzado
+        price: 379€
+        details: por mes
         description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        Potencia tus decisiones con análisis avanzados y modelos predictivos. Optimiza tus operaciones, mejora el rendimiento y proyecta el crecimiento de tu empresa aprovechando datos clave y técnicas avanzadas.
+
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+    - Modelos Predictivos Avanzados: Prevé la demanda, el comportamiento de los clientes y las tendencias de ventas con nuestros modelos avanzados.
+    - Análisis en Profundidad: Generación de informes detallados que proporcionan una visión clara de los aspectos clave de tu negocio.
+    - Soporte Continuo Personalizado: Accede a asistencia técnica vía correo electrónico y teléfono, con respuesta rápida y soluciones específicas.
+    - Optimización de Estrategias de Marketing: Ajusta y mejora tus campañas publicitarias y tácticas de ventas utilizando análisis de datos.
+    - Herramientas Premium: Accede a herramientas avanzadas de análisis, segmentación de clientes y generación de informes personalizados.
+    - Capacitación Personalizada: Entrenamiento para tu equipo sobre el uso de nuestras herramientas y cómo interpretar los datos para mejorar los resultados.
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
