@@ -79,11 +79,12 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Enterprise
-        price: Custom
-        details: per mes
+        price: Avanzado
+        details: por mes
         description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        Potencia tus decisiones con análisis avanzados y modelos predictivos. 
+        Optimiza tus operaciones, mejora el rendimiento y proyecta el crecimiento 
+        de tu empresa aprovechando datos clave y técnicas avanzadas.
         features:
           - Feature one
           - Feature two
