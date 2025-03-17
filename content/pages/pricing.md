@@ -1,6 +1,6 @@
 ---
 title: Precios
-slug: pricing
+slug: precios
 sections:
   - title:
       text: Precios Flexibles
@@ -78,8 +78,8 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Avanzado
+      - title: Avanzado
+        price: 379€
         details: por mes
         description: >-
           Potencia tus decisiones con análisis avanzados y modelos predictivos. 
@@ -92,6 +92,7 @@ sections:
           - Optimización de Estrategias de Marketing.
           - Herramientas Premium.
           - Capacitación Personalizada.
+          - (Más información a continuación).
 
         image:
           url: /images/abstract-feature3.svg
