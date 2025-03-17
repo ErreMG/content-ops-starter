@@ -2,15 +2,15 @@
     "model": "PageLayout",
     "presets": [
         {
-            "label": "Pricing",
+            "label": "Precios",
             "locale": null,
             "data": {
-                "title": "Pricing",
-                "slug": "pricing",
+                "title": "Precios",
+                "slug": "precios",
                 "sections": [
                     {
                         "title": {
-                            "text": "Flexible Pricing",
+                            "text": "Precios Flexibles",
                             "color": "text-dark",
                             "styles": {
                                 "self": {
@@ -19,7 +19,7 @@
                             },
                             "$$type": "TitleBlock"
                         },
-                        "subtitle": "This is the subtitle for the pricing section",
+                        "subtitle": "Elige el plan que mejor se adapte a las necesidades y objetivos de tu negocio. Avanza a tu propio ritmo y optimiza tus resultados de manera eficiente.",
                         "plans": [
                             {
                                 "title": "Developers",
