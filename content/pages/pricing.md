@@ -12,7 +12,7 @@ sections:
     subtitle: Elige el plan que mejor se adapte a las necesidades y objetivos de tu negocio. Avanza a tu propio ritmo y optimiza tus resultados de manera eficiente.
     plans:
       - title: Inicialización
-        price: 29€
+        price: 79€
         details: Pago Único
         description: >-
           Empieza a conocer la importancia de los datos en tu negocio con un enfoque sencillo.
@@ -21,8 +21,9 @@ sections:
         features:
           - Registro básico de ventas
           - Recopilación de datos básicos de clientes (nombre, contacto, etc.)
-          - Informes simples para comenzar a comprender el rendimiento
-          - Acceso a soporte básico para resolver dudas iniciales
+          - Informes simples para comenzar a comprender el rendimiento.
+          - Guía sobre cómo utilizar y organizar los datos.
+          - Acceso a soporte básico para resolver dudas iniciales.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
