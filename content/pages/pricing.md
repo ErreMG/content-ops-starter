@@ -1,9 +1,9 @@
 ---
-title: Pricing
-slug: pricing
+title: Precios
+slug: precios
 sections:
   - title:
-      text: Flexible Pricing
+      text: Precios Flexibles
       color: text-dark
       styles:
         self:
