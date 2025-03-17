@@ -1,6 +1,6 @@
 ---
 title: Precios
-slug: precios
+slug: pricing
 sections:
   - title:
       text: Precios Flexibles
@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Elige el plan que mejor se adapte a las necesidades y objetivos de tu negocio. Avanza a tu propio ritmo y optimiza tus resultados de manera eficiente.
     plans:
       - title: Inicialización
         price: 29€
