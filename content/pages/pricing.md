@@ -30,7 +30,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Comienza tu viaje
-            url: /
+            url: /inicializacion
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -64,7 +64,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Transforma tu negocio
-            url: /
+            url: /basico
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -101,7 +101,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Impulsa tu crecimiento
-            url: /
+            url: /avanzado
             icon: arrowRight
             iconPosition: right
             style: secondary
