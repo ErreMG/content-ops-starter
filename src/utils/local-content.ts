@@ -106,5 +106,7 @@ export function allContent() {
 
     resolveReferences(siteConfig, fileToContent);
 
+    console.log("Páginas cargadas:", pages.map((p) => p.__metadata.id));
+
     return { objects, pages, props: { site: siteConfig } };
 }
