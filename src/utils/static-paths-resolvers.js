@@ -32,8 +32,6 @@ const StaticPathsResolvers = {
             categoryPosts = categoryPosts.filter(isPublished);
         }
         return generatePagedPathsForPage(page, categoryPosts, numOfPostsPerPage);
-    }
-
+    },
     PageLayout: (page) => [page.__metadata.urlPath] // Prueba
-
 };
