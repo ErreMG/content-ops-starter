@@ -49,7 +49,14 @@ export async function getStaticProps({ params }) {
     const data = allContent();
     const urlPath = '/' + (params.slug || []).join('/');
     const props = await resolveStaticProps(urlPath, data);
+
+    if (!props || !props.page) {
+        console.error(`Error: No se encontró la página para la ruta ${urlPath}`);
+        return { notFound: true }; // Esto evita que Next.js rompa el build
+    }
+
     return { props };
 }
+
 
 export default Page;
